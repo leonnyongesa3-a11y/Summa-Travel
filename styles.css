@@ -3,6 +3,12 @@ h1{
     font-size: 2em;/*Increase font size for better readability */
     text-align: center;/*Center align the heading */
 }
+img{
+    border: 3px solid rgb(134, 153, 218);/*Add a border to the image */
+    display: block;/* Removes the bottom margine if its inside inline content*/
+    margin: 0 auto;/*Center the image horizontally */
+    width: 600px;/*Set a specific width for the image */
+}
 * {
     margin: 15px;
     pad: 20px;
