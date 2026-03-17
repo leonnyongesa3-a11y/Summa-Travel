@@ -1,3 +1,8 @@
+h1{
+    font-family: 'Georgia', serif;/*Use serif font for classic look */
+    font-size: 2em;/*Increase font size for better readability */
+    text-align: center;/*Center align the heading */
+}
 * {
     margin: 15px;
     pad: 20px;
