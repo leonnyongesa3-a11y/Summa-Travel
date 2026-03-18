@@ -10,7 +10,9 @@ img{
     width: 500px;/*Set a specific width for the image */
 }
 nav{
-    
+    button {
+        background-color: #f00505;/*Set text color for buttons */
+    }
         padding: 10px;/*Add padding for better spacing */
     text-align: center;/*Center align the navigation links */
 }
