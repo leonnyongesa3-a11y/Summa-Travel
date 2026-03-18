@@ -9,6 +9,11 @@ img{
     margin: 0 auto;/*Center the image horizontally */
     width: 500px;/*Set a specific width for the image */
 }
+nav{
+        background-color: rgb(225, 10, 10);/*Set a background color for the navigation bar */
+        padding: 10px;/*Add padding for better spacing */
+    text-align: center;/*Center align the navigation links */
+}
 * {
     margin: 15px;
     pad: 20px;
